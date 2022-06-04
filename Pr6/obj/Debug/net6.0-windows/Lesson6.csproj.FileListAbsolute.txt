@@ -1,0 +1,17 @@
+C:\Users\egorp\source\repos\Lesson6\Lesson6\bin\Debug\net6.0-windows\Lesson6.exe
+C:\Users\egorp\source\repos\Lesson6\Lesson6\bin\Debug\net6.0-windows\Lesson6.deps.json
+C:\Users\egorp\source\repos\Lesson6\Lesson6\bin\Debug\net6.0-windows\Lesson6.runtimeconfig.json
+C:\Users\egorp\source\repos\Lesson6\Lesson6\bin\Debug\net6.0-windows\Lesson6.dll
+C:\Users\egorp\source\repos\Lesson6\Lesson6\bin\Debug\net6.0-windows\Lesson6.pdb
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\Lesson6.csproj.AssemblyReference.cache
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\Lesson6.csproj.GenerateResource.cache
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\Lesson6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\Lesson6.AssemblyInfoInputs.cache
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\Lesson6.AssemblyInfo.cs
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\Lesson6.csproj.CoreCompileInputs.cache
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\Lesson6.dll
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\refint\Lesson6.dll
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\Lesson6.pdb
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\Lesson6.genruntimeconfig.cache
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\ref\Lesson6.dll
+C:\Users\egorp\source\repos\Lesson6\Lesson6\obj\Debug\net6.0-windows\Lesson6.GraphicsEditor.resources
